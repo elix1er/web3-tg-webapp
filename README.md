@@ -1,10 +1,10 @@
-# Vite React WalletConnect WAGMI Telegram Mini Dapp
+# Vite React WalletConnect WAGMI 
 
 Follow these steps to create a Vite React application, integrate WalletConnect using WAGMI, publish it as a GitHub Page, and deploy it
 
 ## Step 4 Setup WalletConnect with WAGMI
 
-WalletConnect's Web3Modal SDK (4.x)) provides simple-to-use wallet integration into Web3 App.
+WalletConnect's Web3Modal SDK (4.x) provides simple-to-use wallet integration into Web3 App.
 
 Create `.env` and `.env.production` (for deploying as GitHub Pages).
 
