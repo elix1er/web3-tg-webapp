@@ -1,5 +1,5 @@
 {
-  "name": "bnb-telegram-demo",
+  "name": "appkit-vite-test",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -35,6 +35,5 @@
     "gh-pages": "^6.1.1",
     "typescript": "^5.2.2",
     "vite": "^5.2.0"
-  },
-  "homepage": "https://kang5647.github.io/bnb-telegram-demo"
+  }
 }
