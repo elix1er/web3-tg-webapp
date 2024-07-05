@@ -8,7 +8,7 @@ export default defineConfig(({ command, mode }) => {
 
   return {
     plugins: [react()],
-    base: "/",
+    base: "/web3-tg-webapp",
     // vite config
     define: {
       __APP_ENV__: JSON.stringify(env.APP_ENV),
